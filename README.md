@@ -1,1 +1,3 @@
 # product-presentation
+建立一個現代互動式單頁網頁（React + Tailwind + Framer Motion），用白話向非IT人員介紹 Power Automate 與 Copilot Studio。每頁僅一個概念，文字30字內，搭配 SVG 動畫、流程圖、角色互動。內容依序：①為何需要自動化與AI助理②Power Automate=自動執行流程③Copilot Studio=建立AI聊天助理④兩者整合流程⑤企業案例⑥授權與費用（Power Automate 免費/Premium、每使用者/流程授權；Copilot Studio 授權、訊息容量、額外計費，說明何時需要 Microsoft 365、Power Platform、Dataverse 等授權）⑦比較表⑧選擇建議。採 Apple/Linear 風格、大量留白、滾動動畫、RWD、模組化程式碼，所有插圖皆以 SVG 製作。
+整體風格參考 Apple 官網、Linear、Vercel、Figma 的產品介紹頁，動畫流暢且具有故事感，讓沒有 IT 背景的人 3 分鐘就能理解 Power Automate 與 Copilot Studio 的差異與搭配方
